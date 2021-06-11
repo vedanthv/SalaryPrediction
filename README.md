@@ -3,8 +3,8 @@ This is a ML Application to Predict the Salary of Software Engineers in various 
 
 ## Glimpses of the App
 
-<img src = 'screenshot1.png'>
-<img src = "screenshot2.png">
+<img src = 'screenshot1.PNG'>
+<img src = "screenshot2.PNG">
 
 # Tech Stack Used : 
 - Python
